@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed
+}
+
+.sect1{
+    background: #000;
+    padding-left: 10px;
+    width: 99%;
+    height: 250px;
+    margin: 0;
+}
+
+.sect1 h1{
+    color: #fff;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.sect1 hr{
+    width: 350px;
+}
+
+.sect1 p{
+    font-size: 1.2em;
+    color: #fff;
+    text-align: center;
+}
+
+.sect2{
+    width: 1700px;
+    height: 350px;
+    background: #080808;
+}
+
+.sect2 hr{
+    width: 350px;
+}
+
+.sect2 h2{
+    color: #fff;
+    text-align: center;
+}
+
+.sect2 h5{
+    color: #fff;
+    text-align: center;
+}
+
+.sect2 p{
+    padding-left: 40px;
+    padding-right: 40px;
+    color: #fff;
+    text-align: justify;
+}
+
+.sect2 a{
+    background: #ff3e00;
+    margin-left: 46%;
+    color: #fff;
+    text-decoration: none;
+}
+
+.sectpro{
+    display: flex;
+}
