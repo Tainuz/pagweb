@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container{
+    padding-top: 5px;
+    color: #fff;
+    background: #000;
+    width: 80%;
+    height: 500px;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 70px;
+    border-radius: 30px;
+}
+
+.container h2{
+    padding-top: 5px;
+    text-align: center;
+    font-size: 2em;
+}
+
+.container hr{
+    width: 500px;
+}
+
+.container h5{
+    padding-top: 0px;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.container p{
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.boton{
+    border: 0;
+    background-color: rgb(228, 192, 95);
+    font-size: 1.2em;
+    border-radius: 10px 10px 10px 10px;
+    height: 30px;
+}
+
+.numero{
+    width: 100px;
+    height: 22px;
+    font-size: 1.2em;
+}
